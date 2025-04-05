@@ -1,1 +1,2 @@
 "This is the first content for the repository." 
+"Updated content for the text file." 
